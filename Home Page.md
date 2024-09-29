@@ -9,7 +9,7 @@
 <body>
     <main>
         <section class="intro">
-            <h1>Hello! I am Pawan Revankar</h1>
+            <h2>Hello! I am Pawan Revankar</h2>
             <p>Welcome to my personal website. Explore my achievements, current work, and past projects...</p>
         </section>
     </main>
