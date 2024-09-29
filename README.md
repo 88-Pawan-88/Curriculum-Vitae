@@ -1,5 +1,4 @@
-# Curriculum-Vitae
-Personal Website
+# Personal Website
 
 This is a simple personal website created to showcase achievements, ongoing work, and past projects...
 
