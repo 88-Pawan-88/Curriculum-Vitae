@@ -23,4 +23,4 @@ This is a simple personal website created to showcase achievements, ongoing work
    Clone the repository:
    ```bash
    git clone https://github.com/88-Pawan-88/Curriculum-Vitae.git
-   cd Curriculum-Vitae
+  
