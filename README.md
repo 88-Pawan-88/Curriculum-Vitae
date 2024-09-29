@@ -19,7 +19,8 @@ This is a simple personal website created to showcase achievements, ongoing work
 
 ### *Deployment on GitHub Pages*
 1. *Push your code to GitHub:*
-   - Create a repository on GitHub, push your code, and follow these [steps](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to deploy it.
+   - Create a repository on GitHub, push your code, and follow these steps.
+(https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to deploy it.
 
 2. *Verify Deployment:*
    - After deployment, check that the URL works and the website is responsive.
