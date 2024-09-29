@@ -1,4 +1,4 @@
-# Pawan Revankar's Website
+# Pawan's Website
 
 This is a simple personal website created to showcase achievements, ongoing work, and past projects...
 
